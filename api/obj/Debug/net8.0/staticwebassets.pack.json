@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\2024-0724-25-ICT-Training-for-LGU-Bago-Employees_Participants.pdf",
+      "PackagePath": "staticwebassets\\uploads\\2024-0724-25-ICT-Training-for-LGU-Bago-Employees_Participants.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\Combined DTR.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Combined DTR.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\OEB05AUTV22TLMWTJDK2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\OEB05AUTV22TLMWTJDK2.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\Q0FPZBNMCX2E6MR2JAUS.png",
+      "PackagePath": "staticwebassets\\uploads\\Q0FPZBNMCX2E6MR2JAUS.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\Screenshot 2024-02-13 184400.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-02-13 184400.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\T_BN_BATCH0036-ReqForm (27).pdf",
+      "PackagePath": "staticwebassets\\uploads\\T_BN_BATCH0036-ReqForm (27).pdf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\US64YUS9LZR3CO42364P.pdf",
+      "PackagePath": "staticwebassets\\uploads\\US64YUS9LZR3CO42364P.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\Z9RG8A3QHXT0GD8869AI.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Z9RG8A3QHXT0GD8869AI.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\brent ibanez.png",
+      "PackagePath": "staticwebassets\\uploads\\brent ibanez.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\gemini.png",
+      "PackagePath": "staticwebassets\\uploads\\gemini.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.api.props",
+      "PackagePath": "build\\api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.api.props",
+      "PackagePath": "buildMultiTargeting\\api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.api.props",
+      "PackagePath": "buildTransitive\\api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
