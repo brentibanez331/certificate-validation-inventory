@@ -22,13 +22,13 @@ namespace api.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll([FromQuery] string? organizer, [FromQuery] string? eventName, [FromQuery] string? code)
+        public async Task<IActionResult> GetAll([FromQuery] string? organizer, [FromQuery] string? eventName, [FromQuery] int? eventId, [FromQuery] string? code)
         {
             List<Certificate> certificates;
 
-            if (!string.IsNullOrEmpty(organizer) || !string.IsNullOrEmpty(eventName) || !string.IsNullOrEmpty(code))
+            if (!string.IsNullOrEmpty(organizer) || !string.IsNullOrEmpty(eventName) || !string.IsNullOrEmpty(code) || eventId != null)
             {
-                certificates = await _certificateRepo.GetCertificatesByOrganizerEventCodeAsync(organizer, eventName, code);
+                certificates = await _certificateRepo.GetCertificatesByOrganizerEventCodeAsync(organizer, eventName, code, eventId);
             }
             else
             {
@@ -63,5 +63,33 @@ namespace api.Controllers
                 return BadRequest(new { message = ex.Message });
             }
         }
+
+        [HttpGet("download/{code}")]
+        public async Task<IActionResult> DownloadCertificate(string code){
+            var pdfBytes = await _certificateRepo.GetCertificatePdfByCodeAsync(code);
+
+            if(pdfBytes == null){
+                return NotFound();
+            }
+
+            return File(pdfBytes, "application/pdf", $"{code}.pdf");
+        }
+
+        [HttpPost("download-zip")]
+        public async Task<IActionResult> DownloadCertificatesAsZip([FromBody] List<string> certificateCodes){
+            if(certificateCodes == null || certificateCodes.Count == 0){
+                return BadRequest("No certificate codes provided");
+            }
+
+            var zipBytes = await _certificateRepo.GenerateZipFromCertificateCodes(certificateCodes);
+
+            if(zipBytes == null || zipBytes.Length == 0){
+                return NotFound("No certificates found or PDF generation failed");
+            }
+
+            return File(zipBytes, "application/zip", "certificates.zip");
+        }
+
+
     }
 }

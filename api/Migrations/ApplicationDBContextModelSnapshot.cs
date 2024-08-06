@@ -34,11 +34,18 @@ namespace api.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
                     b.Property<int?>("EventId")
                         .HasColumnType("int");
 
                     b.Property<DateTime?>("ExpirationDate")
                         .HasColumnType("datetime2");
+
+                    b.Property<string>("FilePath")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ParticipantName")
                         .IsRequired()
@@ -97,6 +104,10 @@ namespace api.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Alignment")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("CertificateFilePath")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -112,11 +123,42 @@ namespace api.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("FontFamily")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("FontSize")
+                        .HasColumnType("int");
+
+                    b.Property<bool>("IsBold")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsItalic")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsUnderlined")
+                        .HasColumnType("bit");
+
                     b.Property<int?>("OrganizationId")
                         .HasColumnType("int");
 
+                    b.Property<double>("QrSize")
+                        .HasColumnType("float");
+
+                    b.Property<double>("QrXPosition")
+                        .HasColumnType("float");
+
+                    b.Property<double>("QrYPosition")
+                        .HasColumnType("float");
+
                     b.Property<DateTime>("StartDateTime")
                         .HasColumnType("datetime2");
+
+                    b.Property<double>("TextXPosition")
+                        .HasColumnType("float");
+
+                    b.Property<double>("TextYPosition")
+                        .HasColumnType("float");
 
                     b.Property<string>("Venue")
                         .IsRequired()

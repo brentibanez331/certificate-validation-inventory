@@ -21,7 +21,9 @@ namespace api.Mappers
                 Revoked = certificateModel.Revoked,
                 QRCode = certificateModel.QRCode,
                 ParticipantName = certificateModel.ParticipantName,
-                RevocationReason = certificateModel.RevocationReason
+                RevocationReason = certificateModel.RevocationReason,
+                FilePath = certificateModel.FilePath,
+                CreatedAt = certificateModel.CreatedAt
             };
         }
 

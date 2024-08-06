@@ -11,7 +11,7 @@ namespace api.Interfaces
     {
         Task<List<Event>> GetAllAsync();
         Task<Event?> GetByIdAsync(int id);
-        Task<List<Event>> GetEventsByOrganizerAndEventNameAsync(string organizerName, string eventName);
+        Task<List<Event>> GetEventsByOrganizerAndEventNameAsync(string organizerName, string eventName, int organizationId);
         Task<Event> CreateAsync(Event eventModel);
         Task<Event?> UpdateAsync(int id, UpdateEventRequestDto eventDto);
         Task<Event?> DeleteAsync(int id);

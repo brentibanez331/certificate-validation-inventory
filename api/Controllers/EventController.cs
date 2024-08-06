@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Threading.Tasks;
 using api.Dtos.Event;
@@ -24,12 +25,12 @@ namespace api.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll([FromQuery] string? organization, [FromQuery] string? eventName)
+        public async Task<IActionResult> GetAll([FromQuery] string? organization, [FromQuery] string? eventName, [FromQuery] int? organizationId)
         {
             List<Event> events;
-            if (!string.IsNullOrEmpty(organization) || !string.IsNullOrEmpty(eventName))
+            if (!string.IsNullOrEmpty(organization) || !string.IsNullOrEmpty(eventName) || organizationId != null)
             {
-                events = await _eventRepo.GetEventsByOrganizerAndEventNameAsync(organization, eventName);
+                events = await _eventRepo.GetEventsByOrganizerAndEventNameAsync(organization, eventName, (int)organizationId);
             }
             else
             {
@@ -54,13 +55,30 @@ namespace api.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromForm] CreateEventRequestDto eventDto)
         {
+            if (!ModelState.IsValid)
+            {
+                var errors = ModelState
+                    .Where(ms => ms.Value.Errors.Any())
+                    .Select(ms =>
+                    {
+                        var displayName = eventDto.GetType()
+                            .GetProperty(ms.Key)?
+                            .GetCustomAttributes(typeof(DisplayNameAttribute), false)
+                            .Cast<DisplayNameAttribute>()
+                            .FirstOrDefault()?.DisplayName ?? ms.Key;
+                        var errorMessages = ms.Value.Errors.Select(e => e.ErrorMessage).ToList();
+                        return new { Field = displayName, Errors = errorMessages };
+                    })
+                    .ToList();
+
+                return BadRequest(new { errors });
+            }
+
             var eventModel = eventDto.ToEventFromCreateDto();
 
             if (eventDto.CertificateFile != null)
             {
                 var fileExtension = Path.GetExtension(eventDto.CertificateFile.FileName);
-
-
                 var uniqueFilename = CertificateFilePathNameGenerator.GenerateUniqueFilename(fileExtension);
                 var filePath = Path.Combine("wwwroot", "uploads", uniqueFilename);
 
@@ -70,7 +88,6 @@ namespace api.Controllers
                 }
 
                 eventModel.CertificateFilePath = $"/static/uploads/{uniqueFilename}";
-
             }
 
             await _eventRepo.CreateAsync(eventModel);

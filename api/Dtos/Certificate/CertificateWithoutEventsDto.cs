@@ -14,5 +14,7 @@ namespace api.Dtos.Certificate
         public bool Revoked { get; set; } = false;
         public DateTime RevocationDate { get; set; }
         public string RevocationReason { get; set; } = string.Empty;
+        public string FilePath { get; set; } = string.Empty;
+        public DateTime CreatedAt { get; set; }
     }
 }

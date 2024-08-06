@@ -6,6 +6,7 @@ using api.Data;
 using api.Dtos.Event;
 using api.Dtos.Organization;
 using api.Interfaces;
+using api.Mappers;
 using api.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -31,10 +32,10 @@ namespace api.Repository
             return await _context.Event.Include(e => e.Organization).FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public async Task<List<Event>> GetEventsByOrganizerAndEventNameAsync(string organizerName, string eventName)
+        public async Task<List<Event>> GetEventsByOrganizerAndEventNameAsync(string organizerName, string eventName, int organizationId)
         {
             return await _context.Event
-                .Include(e => e.Organization).Where(e => (string.IsNullOrEmpty(organizerName) || e.Organization.OrganizationName.Contains(organizerName)) &&
+                .Include(e => e.Organization).Include(e => e.Certificates).Where(e => (organizationId == null || e.Organization.Id == organizationId) && (string.IsNullOrEmpty(organizerName) || e.Organization.OrganizationName.Contains(organizerName)) &&
                 (string.IsNullOrEmpty(eventName) || e.EventName.Contains(eventName)))
                 .ToListAsync();
         }
@@ -51,7 +52,7 @@ namespace api.Repository
 
             if(existingEvent == null) return null;
 
-            existingEvent.EventName = eventDto.EventName;
+            existingEvent.UpdateEventFromDto(eventDto);
 
             await _context.SaveChangesAsync();
             return existingEvent;

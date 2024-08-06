@@ -19,5 +19,7 @@ namespace api.Dtos.Certificate
         public string RevocationReason { get; set; } = string.Empty;
         public int? EventId { get; set; }
         public EventDto? Event { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public string FilePath { get; set; } = string.Empty;
     }
 }

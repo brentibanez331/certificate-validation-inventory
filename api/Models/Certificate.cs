@@ -15,7 +15,10 @@ namespace api.Models
         public string QRCode { get; set; } = string.Empty;
         public DateTime? ExpirationDate { get; set;}
         public bool Revoked { get; set; } = false;
+        public string FilePath { get; set; } = string.Empty;
         public DateTime? RevocationDate { get; set; }
+        private static readonly TimeZoneInfo PhilippineTimeZone = TimeZoneInfo.FindSystemTimeZoneById("Asia/Manila");
+        public DateTime CreatedAt { get; set; } = TimeZoneInfo.ConvertTime(DateTime.UtcNow, PhilippineTimeZone);
         public string? RevocationReason { get; set; } = string.Empty;
     }
 }

@@ -1,44 +1,544 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\2024-0724-25-ICT-Training-for-LGU-Bago-Employees_Participants.pdf",
-      "PackagePath": "staticwebassets\\uploads\\2024-0724-25-ICT-Training-for-LGU-Bago-Employees_Participants.pdf"
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\0EA0GYF8I2.png",
+      "PackagePath": "staticwebassets\\certificates\\0EA0GYF8I2.png"
     },
     {
-      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\Combined DTR.pdf",
-      "PackagePath": "staticwebassets\\uploads\\Combined DTR.pdf"
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\1RPJJSI4DO.png",
+      "PackagePath": "staticwebassets\\certificates\\1RPJJSI4DO.png"
     },
     {
-      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\OEB05AUTV22TLMWTJDK2.pdf",
-      "PackagePath": "staticwebassets\\uploads\\OEB05AUTV22TLMWTJDK2.pdf"
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\30FTKC4LQO.png",
+      "PackagePath": "staticwebassets\\certificates\\30FTKC4LQO.png"
     },
     {
-      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\Q0FPZBNMCX2E6MR2JAUS.png",
-      "PackagePath": "staticwebassets\\uploads\\Q0FPZBNMCX2E6MR2JAUS.png"
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\3EN37UX4DJ.png",
+      "PackagePath": "staticwebassets\\certificates\\3EN37UX4DJ.png"
     },
     {
-      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\Screenshot 2024-02-13 184400.png",
-      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-02-13 184400.png"
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\3FYVYYO7K6.png",
+      "PackagePath": "staticwebassets\\certificates\\3FYVYYO7K6.png"
     },
     {
-      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\T_BN_BATCH0036-ReqForm (27).pdf",
-      "PackagePath": "staticwebassets\\uploads\\T_BN_BATCH0036-ReqForm (27).pdf"
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\3IFOX2GJBT.png",
+      "PackagePath": "staticwebassets\\certificates\\3IFOX2GJBT.png"
     },
     {
-      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\US64YUS9LZR3CO42364P.pdf",
-      "PackagePath": "staticwebassets\\uploads\\US64YUS9LZR3CO42364P.pdf"
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\3KPG60MYRT.png",
+      "PackagePath": "staticwebassets\\certificates\\3KPG60MYRT.png"
     },
     {
-      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\Z9RG8A3QHXT0GD8869AI.pdf",
-      "PackagePath": "staticwebassets\\uploads\\Z9RG8A3QHXT0GD8869AI.pdf"
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\4GXWL2E3AV.png",
+      "PackagePath": "staticwebassets\\certificates\\4GXWL2E3AV.png"
     },
     {
-      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\brent ibanez.png",
-      "PackagePath": "staticwebassets\\uploads\\brent ibanez.png"
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\5341QFMU3E.png",
+      "PackagePath": "staticwebassets\\certificates\\5341QFMU3E.png"
     },
     {
-      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\gemini.png",
-      "PackagePath": "staticwebassets\\uploads\\gemini.png"
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\583VG6NR6Q.png",
+      "PackagePath": "staticwebassets\\certificates\\583VG6NR6Q.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\5CYFGKTV8F.png",
+      "PackagePath": "staticwebassets\\certificates\\5CYFGKTV8F.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\5UZ2ON99FU.png",
+      "PackagePath": "staticwebassets\\certificates\\5UZ2ON99FU.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\6CDLJA7Q5D.png",
+      "PackagePath": "staticwebassets\\certificates\\6CDLJA7Q5D.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\6FRGGX4DKR.png",
+      "PackagePath": "staticwebassets\\certificates\\6FRGGX4DKR.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\6XQ6F31F0G.png",
+      "PackagePath": "staticwebassets\\certificates\\6XQ6F31F0G.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\6XZYGRBGRL.png",
+      "PackagePath": "staticwebassets\\certificates\\6XZYGRBGRL.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\7H2NEQ7Q9F.png",
+      "PackagePath": "staticwebassets\\certificates\\7H2NEQ7Q9F.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\86OE56YHYV.png",
+      "PackagePath": "staticwebassets\\certificates\\86OE56YHYV.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\8AH0UT9D7G.png",
+      "PackagePath": "staticwebassets\\certificates\\8AH0UT9D7G.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\8PY6FGKR1M.png",
+      "PackagePath": "staticwebassets\\certificates\\8PY6FGKR1M.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\8YT2NYJ5KE.png",
+      "PackagePath": "staticwebassets\\certificates\\8YT2NYJ5KE.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\94PW5KAQQX.png",
+      "PackagePath": "staticwebassets\\certificates\\94PW5KAQQX.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\AXEJ4YSE20.png",
+      "PackagePath": "staticwebassets\\certificates\\AXEJ4YSE20.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\B8366F22M6.png",
+      "PackagePath": "staticwebassets\\certificates\\B8366F22M6.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\BYK24MXRXX.png",
+      "PackagePath": "staticwebassets\\certificates\\BYK24MXRXX.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\CQKWHVVOQA.png",
+      "PackagePath": "staticwebassets\\certificates\\CQKWHVVOQA.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\D0UP8S4JR0.png",
+      "PackagePath": "staticwebassets\\certificates\\D0UP8S4JR0.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\D9XTL2BGSN.png",
+      "PackagePath": "staticwebassets\\certificates\\D9XTL2BGSN.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\DA7QL5CA7Q.png",
+      "PackagePath": "staticwebassets\\certificates\\DA7QL5CA7Q.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\DDPNOGISC6.png",
+      "PackagePath": "staticwebassets\\certificates\\DDPNOGISC6.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\DVH7LADXDW.png",
+      "PackagePath": "staticwebassets\\certificates\\DVH7LADXDW.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\DWK5OZ79NH.png",
+      "PackagePath": "staticwebassets\\certificates\\DWK5OZ79NH.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\E4K6EJ3W22.png",
+      "PackagePath": "staticwebassets\\certificates\\E4K6EJ3W22.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\EX534ZA8BA.png",
+      "PackagePath": "staticwebassets\\certificates\\EX534ZA8BA.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\F4P1FYJXJK.png",
+      "PackagePath": "staticwebassets\\certificates\\F4P1FYJXJK.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\F8V0EUG3M5.png",
+      "PackagePath": "staticwebassets\\certificates\\F8V0EUG3M5.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\FRUMAK2IC3.png",
+      "PackagePath": "staticwebassets\\certificates\\FRUMAK2IC3.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\FW48YTGI8Y.png",
+      "PackagePath": "staticwebassets\\certificates\\FW48YTGI8Y.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\FWE912EEP8.png",
+      "PackagePath": "staticwebassets\\certificates\\FWE912EEP8.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\G6CQU0AOYY.png",
+      "PackagePath": "staticwebassets\\certificates\\G6CQU0AOYY.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\GWUY4JUJJ9.png",
+      "PackagePath": "staticwebassets\\certificates\\GWUY4JUJJ9.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\H036Z1YL87.png",
+      "PackagePath": "staticwebassets\\certificates\\H036Z1YL87.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\HAQGC7UP6E.png",
+      "PackagePath": "staticwebassets\\certificates\\HAQGC7UP6E.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\HU2OHRCXAD.png",
+      "PackagePath": "staticwebassets\\certificates\\HU2OHRCXAD.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\IPWFX5VOKX.png",
+      "PackagePath": "staticwebassets\\certificates\\IPWFX5VOKX.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\J62IC1QBYU.png",
+      "PackagePath": "staticwebassets\\certificates\\J62IC1QBYU.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\JAZYTC7HCU.png",
+      "PackagePath": "staticwebassets\\certificates\\JAZYTC7HCU.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\KAXZUFJKNX.png",
+      "PackagePath": "staticwebassets\\certificates\\KAXZUFJKNX.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\LEGY1CLZDW.png",
+      "PackagePath": "staticwebassets\\certificates\\LEGY1CLZDW.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\LLWO59FYO4.png",
+      "PackagePath": "staticwebassets\\certificates\\LLWO59FYO4.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\LNC7L4NWXY.png",
+      "PackagePath": "staticwebassets\\certificates\\LNC7L4NWXY.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\M6Z66YH0FX.png",
+      "PackagePath": "staticwebassets\\certificates\\M6Z66YH0FX.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\MF1K8NWOCS.png",
+      "PackagePath": "staticwebassets\\certificates\\MF1K8NWOCS.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\MTOGSEOZES.png",
+      "PackagePath": "staticwebassets\\certificates\\MTOGSEOZES.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\MZ706LW4G8.png",
+      "PackagePath": "staticwebassets\\certificates\\MZ706LW4G8.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\N5RH2DAR96.png",
+      "PackagePath": "staticwebassets\\certificates\\N5RH2DAR96.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\NL8DLP8P38.png",
+      "PackagePath": "staticwebassets\\certificates\\NL8DLP8P38.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\NMTHMGWCD5.png",
+      "PackagePath": "staticwebassets\\certificates\\NMTHMGWCD5.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\OZ0O736G3N.png",
+      "PackagePath": "staticwebassets\\certificates\\OZ0O736G3N.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\PA46VQRVDU.png",
+      "PackagePath": "staticwebassets\\certificates\\PA46VQRVDU.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\PHDTFSFCGZ.png",
+      "PackagePath": "staticwebassets\\certificates\\PHDTFSFCGZ.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\PSPAFX2PVP.png",
+      "PackagePath": "staticwebassets\\certificates\\PSPAFX2PVP.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\QAJOMLXXE7.png",
+      "PackagePath": "staticwebassets\\certificates\\QAJOMLXXE7.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\QEC3OQK3XC.png",
+      "PackagePath": "staticwebassets\\certificates\\QEC3OQK3XC.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\QLYFU7RY3S.png",
+      "PackagePath": "staticwebassets\\certificates\\QLYFU7RY3S.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\QWS5L4H7A5.png",
+      "PackagePath": "staticwebassets\\certificates\\QWS5L4H7A5.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\QYQSU5J1E8.png",
+      "PackagePath": "staticwebassets\\certificates\\QYQSU5J1E8.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\RDK99BO5SK.png",
+      "PackagePath": "staticwebassets\\certificates\\RDK99BO5SK.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\RN0H3XEM3J.png",
+      "PackagePath": "staticwebassets\\certificates\\RN0H3XEM3J.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\TNQ38GN69Z.png",
+      "PackagePath": "staticwebassets\\certificates\\TNQ38GN69Z.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\TRRN4HV2GE.png",
+      "PackagePath": "staticwebassets\\certificates\\TRRN4HV2GE.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\U6G58Z8GUG.png",
+      "PackagePath": "staticwebassets\\certificates\\U6G58Z8GUG.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\U8T3PC5774.png",
+      "PackagePath": "staticwebassets\\certificates\\U8T3PC5774.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\UEIE4859DC.png",
+      "PackagePath": "staticwebassets\\certificates\\UEIE4859DC.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\V8OWN5T8YM.png",
+      "PackagePath": "staticwebassets\\certificates\\V8OWN5T8YM.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\V8WNXXHAPG.png",
+      "PackagePath": "staticwebassets\\certificates\\V8WNXXHAPG.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\VAHC292K4W.png",
+      "PackagePath": "staticwebassets\\certificates\\VAHC292K4W.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\VLKC7I4XHS.png",
+      "PackagePath": "staticwebassets\\certificates\\VLKC7I4XHS.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\W0JEWDM0NU.png",
+      "PackagePath": "staticwebassets\\certificates\\W0JEWDM0NU.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\WMDRXXDVHK.png",
+      "PackagePath": "staticwebassets\\certificates\\WMDRXXDVHK.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\WU95RLJS35.png",
+      "PackagePath": "staticwebassets\\certificates\\WU95RLJS35.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\WVU203R4HE.png",
+      "PackagePath": "staticwebassets\\certificates\\WVU203R4HE.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\XJRR2V2MYW.png",
+      "PackagePath": "staticwebassets\\certificates\\XJRR2V2MYW.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\YN8FEFT3JQ.png",
+      "PackagePath": "staticwebassets\\certificates\\YN8FEFT3JQ.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\YYCDVNQ6P5.png",
+      "PackagePath": "staticwebassets\\certificates\\YYCDVNQ6P5.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\certificates\\YYHNWQVOK0.png",
+      "PackagePath": "staticwebassets\\certificates\\YYHNWQVOK0.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Amarillo.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Amarillo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Arial\\Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Arial\\Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Arial\\BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Arial\\BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Arial\\Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Arial\\Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Arial\\Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Arial\\Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Poppins\\Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Poppins\\BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Poppins\\Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Poppins\\Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Times New Roman\\Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Times New Roman\\Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Times New Roman\\BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Times New Roman\\BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Times New Roman\\Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Times New Roman\\Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\fonts\\Times New Roman\\Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Times New Roman\\Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\0GZZQS5QKOCUHM5XOF33.png",
+      "PackagePath": "staticwebassets\\uploads\\0GZZQS5QKOCUHM5XOF33.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\0YLB9RCA8RVA92P5A3T2.png",
+      "PackagePath": "staticwebassets\\uploads\\0YLB9RCA8RVA92P5A3T2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\2UUQVB4N74LQ94KJG0WG.png",
+      "PackagePath": "staticwebassets\\uploads\\2UUQVB4N74LQ94KJG0WG.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\2VA1CPUH1F2SK60GTR3T.png",
+      "PackagePath": "staticwebassets\\uploads\\2VA1CPUH1F2SK60GTR3T.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\31YSX91MJIUFJMS3J0P9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\31YSX91MJIUFJMS3J0P9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\39C2SIKLV9F9O0311QQG.png",
+      "PackagePath": "staticwebassets\\uploads\\39C2SIKLV9F9O0311QQG.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\3E3DK8K91E45KIEXPZKD.png",
+      "PackagePath": "staticwebassets\\uploads\\3E3DK8K91E45KIEXPZKD.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\66GQM260UO948W340OMX.png",
+      "PackagePath": "staticwebassets\\uploads\\66GQM260UO948W340OMX.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\6HJ1MYD3N4LR6Y4KH2EM.png",
+      "PackagePath": "staticwebassets\\uploads\\6HJ1MYD3N4LR6Y4KH2EM.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\7URR61ZGFNY2OREMBA5O.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7URR61ZGFNY2OREMBA5O.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\95GVXXFSSFLEQAJ5GVMP.png",
+      "PackagePath": "staticwebassets\\uploads\\95GVXXFSSFLEQAJ5GVMP.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\A7PRK4J2ESMUECAIL7NL.jpg",
+      "PackagePath": "staticwebassets\\uploads\\A7PRK4J2ESMUECAIL7NL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\B5DKHT2N1YQXQYO6TAN9.png",
+      "PackagePath": "staticwebassets\\uploads\\B5DKHT2N1YQXQYO6TAN9.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\BKRV7ODNYXJQOVNR31N4.png",
+      "PackagePath": "staticwebassets\\uploads\\BKRV7ODNYXJQOVNR31N4.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\C8YFVUR5A6FB2RISD29E.jpg",
+      "PackagePath": "staticwebassets\\uploads\\C8YFVUR5A6FB2RISD29E.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\CTCB7UZEC60O47QRF9RZ.png",
+      "PackagePath": "staticwebassets\\uploads\\CTCB7UZEC60O47QRF9RZ.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\DAA2Q1261BQ8XP85VFMO.png",
+      "PackagePath": "staticwebassets\\uploads\\DAA2Q1261BQ8XP85VFMO.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\DTXZVEG00SCFHE0Z6UCN.png",
+      "PackagePath": "staticwebassets\\uploads\\DTXZVEG00SCFHE0Z6UCN.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\E2EDS7A04G47OCPF8TVT.png",
+      "PackagePath": "staticwebassets\\uploads\\E2EDS7A04G47OCPF8TVT.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\FL93AUYE7I5NWBT6Y8DL.png",
+      "PackagePath": "staticwebassets\\uploads\\FL93AUYE7I5NWBT6Y8DL.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\H3RG1XVTBBKHMQSOM5I6.png",
+      "PackagePath": "staticwebassets\\uploads\\H3RG1XVTBBKHMQSOM5I6.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\HP51OJ7BEB9YY2SVO05R.png",
+      "PackagePath": "staticwebassets\\uploads\\HP51OJ7BEB9YY2SVO05R.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\IF2N0JXCDHHMYFGVMKOH.png",
+      "PackagePath": "staticwebassets\\uploads\\IF2N0JXCDHHMYFGVMKOH.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\J60TEH80IX4UMD0OVXCN.jpg",
+      "PackagePath": "staticwebassets\\uploads\\J60TEH80IX4UMD0OVXCN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\KW8Y1P9QXY52HB8JWWOD.jpg",
+      "PackagePath": "staticwebassets\\uploads\\KW8Y1P9QXY52HB8JWWOD.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\OW2NYFDCTSY1BRZRIZCB.png",
+      "PackagePath": "staticwebassets\\uploads\\OW2NYFDCTSY1BRZRIZCB.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\OXZKG1RJJ59UA7Z3EZG6.png",
+      "PackagePath": "staticwebassets\\uploads\\OXZKG1RJJ59UA7Z3EZG6.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\QEO9MTN6VZ4GLNPAJUOW.png",
+      "PackagePath": "staticwebassets\\uploads\\QEO9MTN6VZ4GLNPAJUOW.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\S8BDA8YXO4YHRTI9IG2S.png",
+      "PackagePath": "staticwebassets\\uploads\\S8BDA8YXO4YHRTI9IG2S.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\S8NWX53JTWP0523HC5KQ.png",
+      "PackagePath": "staticwebassets\\uploads\\S8NWX53JTWP0523HC5KQ.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\USD4PV2EREFWLRMXL5XE.png",
+      "PackagePath": "staticwebassets\\uploads\\USD4PV2EREFWLRMXL5XE.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\VSK5U5GQ7NAZWVF4SNBB.png",
+      "PackagePath": "staticwebassets\\uploads\\VSK5U5GQ7NAZWVF4SNBB.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\W9FN33KZ0XLJ29ZVWBGU.png",
+      "PackagePath": "staticwebassets\\uploads\\W9FN33KZ0XLJ29ZVWBGU.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\YUDKQ1CRQFX7ON3Q8RP6.png",
+      "PackagePath": "staticwebassets\\uploads\\YUDKQ1CRQFX7ON3Q8RP6.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\ZI6WBN45K2PDFNRDANHV.png",
+      "PackagePath": "staticwebassets\\uploads\\ZI6WBN45K2PDFNRDANHV.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER Nitro 5\\Documents\\Backend\\web_certification\\api\\wwwroot\\uploads\\ZKFV5GJWFVJI1481GTGK.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ZKFV5GJWFVJI1481GTGK.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props",
